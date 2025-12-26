@@ -57,3 +57,5 @@ Steps:
 ## Day 3: Remote collaboration
 - Practiced fetch,pull,push
 - Created a feature branch for a teamwork
+## Teammate Notes
+- Added collaboration practice section
