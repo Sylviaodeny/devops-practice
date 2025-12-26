@@ -59,3 +59,22 @@ Steps:
 - Created a feature branch for a teamwork
 ## Teammate Notes
 - Added collaboration practice section
+Today I practiced working with remote repositories and simulating teamwork.
+
+### Key Commands
+- *git remote -v* → check which GitHub repo my project is connected to
+- *git fetch origin* → download changes from GitHub without merging
+- *git pull origin main --rebase* → sync my local branch with GitHub cleanly
+- *git push origin main* → upload my commits to GitHub
+- *git checkout -b feature-day3* → create a new branch for collaboration
+- *git merge feature-day3* → merge changes back into main
+
+### What I Learned
+- How to connect my local repo with GitHub and confirm the remote.
+- The difference between fetch, pull, and push.
+- How to keep commit history clean using --rebase.
+- How to create, push, and merge feature branches for teamwork.
+- Simulated collaboration by pretending a teammate added changes.
+
+### Notes
+Day 3 helped me understand how developers sync their work with GitHub and collaborate using branches. This is the foundation for real teamwork in DevOps projects.
