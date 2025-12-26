@@ -78,3 +78,7 @@ Today I practiced working with remote repositories and simulating teamwork.
 
 ### Notes
 Day 3 helped me understand how developers sync their work with GitHub and collaborate using branches. This is the foundation for real teamwork in DevOps projects.
+## Day 3 Practice run 2
+- Repeated fetch,pull, and push workflow
+- Created  second pracice branch
+- Merged changes back to main
