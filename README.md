@@ -54,3 +54,6 @@ Steps:
 - I am learning step by step, repeating commands until they feel natural.
 - Each day I add new sections here to track my progress.
 - This README doubles as both documentation and a personal learning journal.
+## Day 3: Remote collaboration
+- Practiced fetch,pull,push
+- Created a feature branch for a teamwork
